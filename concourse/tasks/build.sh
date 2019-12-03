@@ -12,6 +12,8 @@ dotnet publish -c Release -o ./publish
 echo "copying files to ../build-output"
 cp manifest.yml ../build-output
 cp -R ./publish/* ../build-output
+cd publish
 echo Now I am in `pwd`
 ls -l 
+cd ..
 echo " build DONE ..."
