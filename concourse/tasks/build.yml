@@ -13,4 +13,4 @@ outputs:
 
 run:
   path: sh
-  args: ["service-repo/ci/tasks/build.sh"]
+  args: ["service-repo/concourse/tasks/build.sh"]

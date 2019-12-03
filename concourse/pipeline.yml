@@ -30,7 +30,7 @@ jobs:
   - get: service-repo
     trigger: true
   - task: build-and-pkg
-    file: service-repo/ci/tasks/build.yml
+    file: service-repo/concourse/tasks/build.yml
   - put: deploy-dev-env
     params:
       manifest: service-repo/manifest.yml
