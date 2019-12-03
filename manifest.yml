@@ -2,7 +2,8 @@
 applications:
 - name: hello-dotnet-core
   memory: 256M
-  path: ./publish
+  path: ../build-output
   random-route: true
   env:
     WELCOME_MESSAGE: Hello from concourse
+  
