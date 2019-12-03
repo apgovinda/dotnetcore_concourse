@@ -1,0 +1,14 @@
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\bin\Debug\netcoreapp2.1\dotnet-core-helloWorld1.deps.json
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\bin\Debug\netcoreapp2.1\dotnet-core-helloWorld1.runtimeconfig.json
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\bin\Debug\netcoreapp2.1\dotnet-core-helloWorld1.runtimeconfig.dev.json
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\bin\Debug\netcoreapp2.1\dotnet-core-helloWorld1.dll
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\bin\Debug\netcoreapp2.1\dotnet-core-helloWorld1.pdb
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.csprojAssemblyReference.cache
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.csproj.CoreCompileInputs.cache
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.RazorAssemblyInfo.cache
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.RazorAssemblyInfo.cs
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.AssemblyInfoInputs.cache
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.AssemblyInfo.cs
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.RazorTargetAssemblyInfo.cache
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.dll
+D:\PIVOTAL\PKS\dotnet-core-helloWorld1\obj\Debug\netcoreapp2.1\dotnet-core-helloWorld1.pdb
