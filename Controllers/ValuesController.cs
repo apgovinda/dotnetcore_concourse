@@ -14,7 +14,7 @@ namespace dotnet_core_helloWorld1.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "Hi from" , "Govindharaju", "Palani" };
+            return new string[] { "this is from" , "Govindharaju", "Palani" };
         }
 
         // GET api/values/5
