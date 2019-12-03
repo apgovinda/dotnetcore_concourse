@@ -1,6 +1,6 @@
 ---
 applications:
-- name: pal-tracker-core
+- name: hello-dotnet-core
   random-route: true
   env:
     WELCOME_MESSAGE: Hello from concourse
